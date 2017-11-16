@@ -1,0 +1,523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"U",
+				"Util"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"abs",
+				"abstract"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"assi",
+				"assinaturaMaria"
+			],
+			[
+				"ti",
+				"titulo"
+			],
+			[
+				"setid",
+				"setId_cliente"
+			],
+			[
+				"set",
+				"setId"
+			],
+			[
+				"as",
+				"assinaturaMaria"
+			],
+			[
+				"id_cliente",
+				"id_cliente"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"has",
+				"hash_file"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"dados",
+				"enchant_dict_add_to_session"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"an",
+				"celulaNaoPreenchidaAntecip"
+			],
+			[
+				"ce",
+				"celulaNaoPreenchidaCP"
+			],
+			[
+				"c",
+				"celulaPreenchida"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"Tipo",
+				"TipoClientes"
+			],
+			[
+				"Ti",
+				"TipoRecebimento"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"width",
+				"column-width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"bo",
+				"border-collapse"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"usuar",
+				"usuario"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4362,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api.php",
+			"settings":
+			{
+				"buffer_size": 708,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Coding",
+		"/C/Coding/PHPCalculator"
+	],
+	"file_history":
+	[
+		"/C/Coding/PHPCalculator/README.md",
+		"/C/Coding/PHPCalculator/teste.html",
+		"/C/Coding/PHPCalculator/api.php",
+		"/C/Coding/PHPCalculator/index.html",
+		"/C/Users/Thiago/.gitconfig",
+		"/C/code/readme.md",
+		"/C/code/Laravel_lojaVirtual/composer.json",
+		"/C/code/Laravel_lojaVirtual/README.md",
+		"/C/code/meu_teste/index_exemplos.php",
+		"/C/code/meu_teste/index.php",
+		"/C/code/phpOO/App/Views/home.php",
+		"/C/code/phpOO/App/Controllers/comprasController.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_025.zip/025/iniciando_com_php_oo/app/controllers/ComprasController.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_025.zip/025/iniciando_com_php_oo/app/views/home.php",
+		"/C/code/phpOO/Public/index.php",
+		"/C/code/phpOO/App/Controller/comprasController.php",
+		"/C/code/phpOO/vendor/slim/slim/Slim/Http/Response.php",
+		"/C/code/phpOO/vendor/psr/http-message/src/MessageInterface.php",
+		"/C/code/phpOO/vendor/slim/slim/Slim/Http/Message.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_021 (1).zip/021/iniciando_com_php_oo/app/helpers/Util.php",
+		"/C/code/blog/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php",
+		"/C/code/phpOO/vendor/slim/slim/Slim/App.php",
+		"/C/code/phpOO/composer.json",
+		"/C/code/phpOO/index.php",
+		"/C/code/phpOO/bootstrap.php",
+		"/C/code/phpOO/vendor/slim/slim/Slim/Router.php",
+		"/C/code/phpOO/vendor/slim/slim/Slim/DeferredCallable.php",
+		"/C/code/phpOO/App/Helpers/Util.php",
+		"/C/code/phpOO/Config/siteInfo.php",
+		"/C/code/blog/vendor/phpunit/phpunit/src/Framework/TestCase.php",
+		"/C/code/phpOO/App/Util.php",
+		"/C/code/phpOO/Util.php",
+		"/C/code/phpOO/App/config/siteInfo.php",
+		"/C/code/phpOO/App/siteInfo.php",
+		"/C/code/phpOO/siteInfo.php",
+		"/C/code/phpOO/siteInfo2.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_007.zip/007/iniciando_com_php_oo/index.php",
+		"/C/code/phpOO/phpinfo.php",
+		"/C/php/php.ini",
+		"/C/code/blog/routes/web.php",
+		"/C/code/blog/app/Http/Controllers/site/homeController.php",
+		"/C/code/blog/resources/views/home.blade.php",
+		"/C/code/blog/app/Exceptions/Handler.php",
+		"/C/code/blog/resources/views/layout/_includes/topo.blade.php",
+		"/C/code/blog/app/Http/Controllers/site/LoginController.php",
+		"/C/code/blog/resources/views/login/index.blade.php",
+		"/C/code/blog/database/seeds/DatabaseSeeder.php",
+		"/C/code/blog/database/seeds/UsuarioSeeder.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_021.zip/021/cursoLaravel/database/seeds/UsuarioSeeder.php",
+		"/C/code/blog/database/factories/ModelFactory.php",
+		"/C/code/blog/resources/views/layout/_includes/footer.blade.php",
+		"/C/code/blog/app/Http/Controllers/Admin/CursoController.php",
+		"/C/code/blog/resources/views/admin/Cursos/index.blade.php",
+		"/C/code/blog/resources/views/admin/cursos/editar.blade.php",
+		"/C/code/blog/resources/views/admin/Cursos/adicionar.blade.php",
+		"/C/code/blog/resources/views/admin/Cursos/editar.blade.php",
+		"/C/code/blog/app/Curso.php",
+		"/C/code/blog/resources/views/Admin/Cursos/_form.blade.php",
+		"/C/Program Files/MySQL/MySQL Server 5.7/COPYING",
+		"/C/Program Files/MySQL/MySQL Server 5.7/README",
+		"/C/code/blog/resources/views/admin/Cursos/_form.blade.php",
+		"/C/code/blog/app/Contato.php",
+		"/C/code/blog/database/migrations/2017_09_23_231000_create_cursos_table.php",
+		"/C/code/blog/.env",
+		"/C/code/blog/database/migrations/2017_09_05_014233_teste.php",
+		"/C/code/blog/database/migrations/2017_09_03_005937_create_produtos_table.php",
+		"/C/code/blog/database/migrations/2017_09_03_004209_create_contatos_table.php",
+		"/C/code/blog/app/Http/Controllers/ContatoController.php",
+		"/C/code/blog/resources/views/layout/site.blade.php",
+		"/C/code/blog/resources/views/contato/index.blade.php",
+		"/C/code/blog/resources/views/layout/_includes/fotter.blade.php",
+		"/C/code/blog/resources/views/welcome.blade.php",
+		"/C/code/blog/config/app.php",
+		"/C/paginas_php/Paginas/home.php",
+		"/C/paginas_php/Api/configuracao.php",
+		"/C/paginas_php/Layouts/_include/_rodape.php",
+		"/C/paginas_php/Layouts/_include/_topo.php",
+		"/C/paginas_php/Layouts/_include/_nav.php",
+		"/C/paginas_php/Layouts/site.php",
+		"/C/paginas_php/Api/validacao.php",
+		"/C/paginas_php/Api/produtos.php",
+		"/C/paginas_php/Api/api.php",
+		"/C/teste/Paginas/home.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_014-PHP-Basico-IAJTD (1).zip/014_PHP_Basico_IAJTD/PHP_Basico/Api/api.php",
+		"/C/teste/Api/api.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_013-PHP-Basico-RDMBJ.zip/013_PHP_Basico_RDMBJ/PHP_Basico/Api/api.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_014-PHP-Basico-IAJTD.zip/014_PHP_Basico_IAJTD/PHP_Basico/Api/produtos.php",
+		"/C/Users/Thiago/AppData/Local/Temp/Temp1_013-PHP-Basico-RDMBJ.zip/013_PHP_Basico_RDMBJ/PHP_Basico/Api/produtos.php",
+		"/C/paginas_php/index.php",
+		"/C/paginas_php/Api/db.php",
+		"/C/paginas_php/Api/usuario.php",
+		"/C/paginas_php/Api/teste.php",
+		"/C/Windows/system.ini",
+		"/C/Windows/win.ini",
+		"/C/Windows/bootstat.dat",
+		"/C/paginas_php/Paginas/sobre.php",
+		"/C/paginas_php/Paginas/contato.php",
+		"/C/Matriz_de_Clientes/index.html",
+		"/C/Matriz_de_Clientes/index_duasTabelas.html",
+		"/C/paginas_php/Layouts/_include/_topo"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"public",
+			"\t    $pagina = include '../App/Views/home.php';\n\t\t$response->getBody()->getContents($pagina);\n\t    return $response;",
+			"run",
+			"map",
+			"forma",
+			"alter",
+			"xdebug",
+			"Route",
+			"<input type=\"text\" name=\"Titulo\" value=\"{{ isset($registro->titulo) ? $registro->titulo : '' }}\">\n\t<label>Título</label>",
+			"ID",
+			"contato",
+			"token",
+			"mbstrin",
+			"extension",
+			"open",
+			"open ssl",
+			"sql",
+			"C:\\wi",
+			"myssql",
+			"td",
+			"vis",
+			"style",
+			"padding",
+			">\n",
+			"\t\t}\n\t</style>\n",
+			"}\n",
+			"70px",
+			"width",
+			"\t\t\t\t\t\t\t\t<",
+			"\t\t\t\t<",
+			"incluede",
+			"\t];",
+			">\n",
+			"\n<",
+			"\n",
+			"\n<h2><? $dados[\"titulo\"] ?></h2>",
+			"\n<"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1398,
+								1398
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 708,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Coding\\PHPCalculator\\index.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
